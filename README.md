@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a python backend developer, I love django
+Im love TypeScript and React
 
 
 # 💻 Tech Stack:
