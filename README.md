@@ -1,2 +1,2 @@
 
-![Musashi](./musashi-vagabond.gif)
+![Musashi](musashi-vagabond.gif)
