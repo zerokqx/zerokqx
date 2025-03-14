@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 Hello everyone i am 17 years old.
-💻 I am a programmer in web development.
-✍️ I write websites on React and use TypeScript. 
+👋 Hello everyone i am 17 years old. <br/>
+💻 I am a programmer in web development.<br/>
+✍️ I write websites on React and use TypeScript. <br/>
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zerok_cell) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swiftkey382@gmail.com) 
