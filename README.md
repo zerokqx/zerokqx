@@ -30,7 +30,7 @@
 
 <div align="center">
 
-![](Frame%2028Tech_1.svggit)
+![](Frame%2028Tech_1.svg)
 
 </div>
 
