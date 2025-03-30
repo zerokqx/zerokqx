@@ -1,13 +1,13 @@
 <div align="center">
 
-![](Frame%2024Header.svg)
+![](Frame%2024Header_1.svg)
 
 </div>
 
 
 <div align="center">
 
-![](Frame%2025AboutMe.svg)
+![](Frame%2029AboutMe.svg)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-![](Frame%2028Tech.svg)
+![](Frame%2028Tech_1.svggit)
 
 </div>
 
