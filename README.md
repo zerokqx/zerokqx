@@ -2,7 +2,7 @@
 
 ### Frontend Developer | React & TypeScript Enthusiast
 
-I am a 17-year-old developer focused on building strictly typed, high-performance, and intuitive user interfaces. I specialize in modern React patterns and robust architectural solutions.
+I am a 18-year-old developer focused on building strictly typed, high-performance, and intuitive user interfaces. I specialize in modern React patterns and robust architectural solutions.
 
 ---
 
