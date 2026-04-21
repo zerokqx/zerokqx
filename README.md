@@ -4,6 +4,8 @@
 
 I am a 18-year-old developer focused on building strictly typed, high-performance, and intuitive user interfaces. I specialize in modern React patterns and robust architectural solutions.
 
+[![wakatime](https://wakatime.com/badge/user/c156807b-789c-477c-87d4-792372166ca0.svg)](https://wakatime.com/@c156807b-789c-477c-87d4-792372166ca0)
+
 ---
 
 ### 🛠 Tech Stack:
