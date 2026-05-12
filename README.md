@@ -1,37 +1,62 @@
-# Hi, I'm Murad! 👋
+<h2 align="center">Hi 👋! My name is Murad and I'm a Fullstack Developer, from Russia</h2>
 
-### Frontend Developer | React & TypeScript Enthusiast
+###
 
-I am a 18-year-old developer focused on building strictly typed, high-performance, and intuitive user interfaces. I specialize in modern React patterns and robust architectural solutions.
+<br clear="both">
 
-[![wakatime](https://wakatime.com/badge/user/c156807b-789c-477c-87d4-792372166ca0.svg)](https://wakatime.com/@c156807b-789c-477c-87d4-792372166ca0)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
 
----
+###
 
-### 🛠 Tech Stack:
+<br clear="both">
 
-* **Core:** JavaScript (ES6+), **TypeScript**
-* **Frameworks/Libraries:** **React** (Hooks, Context API, Suspense), **TanStack Router** (File-based routing)
-* **Architecture:** **Feature-Sliced Design (FSD)**
-* **State Management:** Redux Toolkit, **Zustand**, React Query
-* **Database & Storage:** **Dexie.js (IndexedDB)**, LocalStorage
-* **Styling:** Tailwind CSS, SCSS, Styled Components, **Mantine UI**
-* **Tools & Environment:** Vite, Bun, Docker, Git
-* **OS:** **Linux (NixOS)**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
+</div>
 
----
+###
 
-### 🚀 Recent Focus:
-- Implementing **type-safe routing** with TanStack Router.
-- Managing complex local states using **Dexie.js** for offline-first applications.
-- Building modular applications following **FSD** principles for better scalability.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
----
+###
 
-### 📫 Contact Me:
+<br clear="both">
 
-* **Telegram:** [@zeroqkx](https://t.me/zerokqx)
-* **Email:** `zerokqx@gmail.com`
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+</div>
 
----
-*"After the code vibe, comes the debugging vibe."*
+###
